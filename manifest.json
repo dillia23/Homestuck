@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Homestuck EasyRead",
+  "description": "This extension allows you to read Homestuck with more laziness.",
+  "version": "1.0",
+  "permissions": [
+    "notifications",
+    "tabs"
+  ],
+  "browser_action": {
+    "default_icon": "favicon.ico",
+    "default_popup": "info.html"
+  }
+}
